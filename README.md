@@ -1,11 +1,7 @@
 # Route to a perfect meal
 
-## Story
 
-Your beloved English Grandma, Henrietta Talia Margaret Lillyanna, loves her recipes.
-She spent a lifetime collecting incredible and unique meals and she asks you to help to create a digital collection.
-
-## What are you going to learn?
+## What I`ve learned:
 
 - JSX
 - Undestanding the structure of the script `create-react-app`
@@ -28,21 +24,3 @@ She spent a lifetime collecting incredible and unique meals and she asks you to 
 
 3. The home page has a carousel (React Responsive Carousel from https://www.npmjs.com/package/react-responsive-carousel)
     - The `Home` page has a carousel which displays the image of the 3 recipes
-
-## General requirements
-
-None
-
-## Hints
-
-- once you start the project you first need to install the react library with `npm install`
-- once all the react libraries are installed, you can start the project  with `npm start`
-- Start editing the `App.js` based on the requirements.
-
-## Background materials
-
-- <i class="far fa-exclamation"></i> [Introduction to JSX](https://reactjs.org/docs/introducing-jsx.html)
-- <i class="far fa-exclamation"></i> [Display lists in React](https://scotch.io/starters/react/handling-lists-in-react-jsx)
-- <i class="far fa-book-open"></i> [Importing css files to react](https://create-react-app.dev/docs/adding-a-stylesheet/)
-- <i class="far fa-book-open"></i> [Adding css styles to react](https://www.w3schools.com/react/react_css.asp)
-- <i class="far fa-book-open"></i> [Debugging a React project](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
